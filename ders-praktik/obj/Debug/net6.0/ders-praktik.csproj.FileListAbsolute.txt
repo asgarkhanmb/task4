@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\bin\Debug\net6.0\ders-praktik.exe
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\bin\Debug\net6.0\ders-praktik.deps.json
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\bin\Debug\net6.0\ders-praktik.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\bin\Debug\net6.0\ders-praktik.dll
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\bin\Debug\net6.0\ders-praktik.pdb
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.dll
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\refint\ders-praktik.dll
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.pdb
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ders-praktik.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\tasklar\task4\ders-praktik\ders-praktik\obj\Debug\net6.0\ref\ders-praktik.dll
